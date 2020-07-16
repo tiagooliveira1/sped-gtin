@@ -1,5 +1,5 @@
 {
-    "name": "nfephp-org/sped-gtin",
+    "name": "troliveira/sped-gtin",
     "type": "library",
     "description": "Classes for validation of GTIN codes.",
     "keywords": ["nfe","nfce","sped","nfephp", "gtin"],
